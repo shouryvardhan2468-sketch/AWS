@@ -1,0 +1,10 @@
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install nginx 
+nginx -v
+cd ..
+cd ..
+sudo apt install visidata 
+cd var
+cd www
+sudo chmod 777 html
