@@ -1,0 +1,9 @@
+nano mifi.sh
+
+While(true)
+Do
+    Echo "inside loop"
+Done
+
+sudo chmod +x mifi.sh
+./mifi.sh
